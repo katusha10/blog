@@ -35,63 +35,72 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests:  
+  - Разработка программного обеспечения  
+  - Искусственный интеллект и машинное обучение  
+  - Кибербезопасность  
+  - Алгоритмы и структуры данных  
+  - Хакатоны и командная разработка  
 
-education:
-  - area: Student
-    institution: RUDN
-    date_start: 2024-09-01
-    date_end: 2028-05-31
-    summary: 
-      
-work:
-  - position: Student
-    company_name: RUDN
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-09-01
-    date_end: ''
-    summary: 
+education:  
+  - area: Student  
+    institution: RUDN  
+    date_start: 2024-09-01  
+    date_end: 2028-05-31  
+    summary: Студентка направления "Компьютерные науки". Интересуюсь программированием, алгоритмами и применением ИИ в различных сферах.  
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Хард скиллы
-    items:
-      - name: Python
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Хобби
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
+work:  
+  - position: Student  
+    company_name: RUDN  
+    company_url: ''  
+    company_logo: ''  
+    date_start: 2024-09-01  
+    date_end: ''  
+    summary: Активно участвую в учебных проектах, изучаю алгоритмы, разработку ПО и основы кибербезопасности.  
 
-languages:
-  - name: Русский
-    percent: 100
-  - name: Английский
-    percent: 60
+# Skills  
+# Add your own SVG icons to assets/media/icons/  
+skills:  
+  - name: Хард скиллы  
+    items:  
+      - name: C++  
+        description: Решение алгоритмических задач и разработка приложений.  
+        percent: 70  
+        icon: code-bracket  
+      - name: Python  
+        description: Основы машинного обучения и автоматизация процессов.  
+        percent: 65  
+        icon: code-bracket  
+      - name: Git & GitHub  
+        description: Работа с системами контроля версий.  
+        percent: 80  
+        icon: branch  
+      - name: Linux  
+        description: Основы работы с ОС Linux и командной строкой.  
+        percent: 50  
+        icon: terminal  
+  - name: Хобби  
+    color: '#eeac02'  
+    color_border: '#f0bf23'  
+    items:  
+      - name: Геймдев  
+        description: Интересуюсь разработкой игр на Unity и Unreal Engine.  
+        percent: 70  
+      - name: Настольные игры  
+        description: Люблю шахматы, стратегические и логические игры.  
+        percent: 90  
+      - name: Чтение  
+        description: Изучаю книги по программированию, кибербезопасности и фантастику.  
+        percent: 85  
+
+languages:  
+  - name: Русский  
+    percent: 100  
+  - name: Английский  
+    percent: 75  
+  - name: Китайский  
+    percent: 30  
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
